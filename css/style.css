@@ -1,0 +1,30 @@
+h1{
+    transition: 1s;
+}
+
+
+#photo{
+    transition: 1s;
+}
+
+
+#mode{
+    padding: 10px;
+    background-color: rgb(32, 30, 30);
+    font-size: 16px;
+    border-radius: 100%;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    transition: 2s;
+}
+
+
+
+
+
+body{
+    transition: 1s;
+}
